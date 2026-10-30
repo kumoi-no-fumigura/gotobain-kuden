@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/gotobain-kuden",
  "yomi": "ごとばいんごくでん",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書",
+  "era": "鎌倉前期",
+  "author": "後鳥羽院",
+  "desc": "後鳥羽院が初心の人のために和歌の心得を七箇条にまとめ、続けて俊成・定家・寂蓮ら同時代の歌人を評した歌論。定家への厳しい批評で知られる。奥書は仁治元年（1240）の書写を記す。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -92,6 +97,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:05:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
